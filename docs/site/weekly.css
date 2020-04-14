@@ -53,13 +53,21 @@ p{
 }
 code{
 	border-style: solid;
-  	border-width: 1px;
-  	margin-left: 15px;
+  border-width: 1px;
+  margin-left: 15px;
 }
 
 .file_name{
   font-weight: bold;
   font-style: italic;
+}
+.source_code{
+  font-weight: bold;
+  font-family: monaco, Consolas, "Lucida Console", monospace;
+}
+
+.js_keyword source_code{
+  color: rgb(197,134,192);
 }
 
 table.blueTable {
