@@ -65,9 +65,23 @@ code{
   font-weight: bold;
   font-family: monaco, Consolas, "Lucida Console", monospace;
 }
-
 .js_keyword source_code{
-  color: rgb(197,134,192);
+  color: rgb(158,10,139);
+}
+.js_general source_code{
+  
+}
+.js_standard source_code{
+  color: rgb(93,33,149);
+}
+.js_conditional source_code{
+  color: rgb(162,20,143);
+}
+.js_string source_code{
+  color: rgb(181,27,28);
+}
+.js_number source_code{
+  color: rgb(75,41,209);
 }
 
 table.blueTable {
