@@ -56,6 +56,9 @@ code{
   border-width: 1px;
   margin-left: 15px;
 }
+.tag{
+  font-weight: bold;
+}
 
 .file_name{
   font-weight: bold;
