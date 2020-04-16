@@ -1,5 +1,8 @@
 body, html {
 	height: 100%;
+    font-size: 1.2em;
+     max-width: 1080px;
+     margin: 0 auto;
 }
 
 /* The hero image */
@@ -49,7 +52,7 @@ h4{
 p{
 	padding: 0px;
 	margin-left: 25px;
-  width: 960px;
+    line-height: 1.5;
 }
 code{
 	border-style: solid;
