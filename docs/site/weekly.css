@@ -1,3 +1,14 @@
+
+:root {
+ --callout-bgcolor: #cbe1e8;
+ --callout-color: black;
+ --footer-bgcolor: gray;
+ --footer-color: white;
+}
+* {
+ box-sizing: border-box;
+}
+
 body, html {
 	height: 100%;
     font-size: 1.2em;
@@ -31,6 +42,27 @@ body, html {
   color: white;
   font-size: 
 }
+img {
+ max-width: 100%;
+}
+ 
+main {
+ padding: 3vw;
+}
+footer {
+ background-color: var(--footer-bgcolor);
+ color: var(--footer-color);
+ padding: 5px;
+ text-align: center;
+}
+ 
+.callout {
+ max-width: 90%;
+ margin: 1em auto;
+ padding: 0.5em;
+ background: var(--callout-bgcolor);
+ color: var(--callout-color);
+}
 
 h1{
 	margin-left: 5px;
@@ -50,8 +82,7 @@ h4{
 }
 p{
 	padding: 0px;
-	margin-left: 25px;
-    line-height: 1.5;
+  line-height: 1.5;
 }
 code{
 	border-style: solid;
