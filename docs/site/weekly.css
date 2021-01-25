@@ -174,9 +174,8 @@ blockquote.style1 {
     background-repeat: no-repeat;
     background-position: bottom right;
    }
-footer.style1 {
-   color: var(--footer-color);
+blockquote.footer.style1 {
    padding: 5px;
-   text-indent: 23px;
+   text-align: right;
 }
 
