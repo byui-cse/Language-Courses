@@ -159,8 +159,8 @@ blockquote.style1 {
   text-align: center; 
   padding-left: 5px;
   margin:0 auto;
-  width:200px;
-  display:table
+  width:auto;
+  display:table;
   background-image: url(images/openquote1.gif);
   background-position: top left;
   background-repeat: no-repeat;
