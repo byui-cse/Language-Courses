@@ -159,13 +159,12 @@ blockquote.style1 {
     text-align: center; 
     padding-left: 30px;
     margin:0 auto;
-    width:auto;
+    width:500px;
     display:table;
     background-image: url(images/openquote1.gif);
     background-position: top left;
     background-repeat: no-repeat;
-
-  
+    margin-top: 10px;
 }
   blockquote.style1 span {
     display: block;
