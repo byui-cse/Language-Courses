@@ -175,8 +175,9 @@ blockquote.style1 {
 }
 
 aside{
- width: 20%;
- margin: 1em auto;
+ width: 30%;
+ margin-left: 20px;
+ margin-right:20px;
  padding: 0.5em;
  background: var(--callout-bgcolor);
  color: var(--callout-color);
