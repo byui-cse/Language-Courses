@@ -172,5 +172,19 @@ blockquote.style1 {
     background-image: url(images/closequote1.gif);
     background-repeat: no-repeat;
     background-position: bottom right;
-   }
+}
+
+aside{
+ width: 20%;
+ margin: 1em auto;
+ padding: 0.5em;
+ background: var(--callout-bgcolor);
+ color: var(--callout-color);
+}
+aside.left{
+  float: left;
+}
+aside.right{
+  float:right;
+}
 
