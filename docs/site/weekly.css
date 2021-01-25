@@ -156,12 +156,17 @@ blockquote.style1 {
   background-color: #faebbc;
   border-top: 1px solid #e1cc89;
   border-bottom: 1px solid #e1cc89;
-  margin: 5px;
+  text-align: center; 
+  padding-left: 5px;
+  margin:0 auto;
+  width:auto;
+  display:table
   background-image: url(images/openquote1.gif);
   background-position: top left;
   background-repeat: no-repeat;
-  text-indent: 23px;
-  }
+
+  
+}
   blockquote.style1 span {
      display: block;
      background-image: url(images/closequote1.gif);
