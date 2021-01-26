@@ -188,4 +188,7 @@ aside.left{
 aside.right{
   float:right;
 }
+aside.figure.figcaption{
+  font-size: small;
+}
 
