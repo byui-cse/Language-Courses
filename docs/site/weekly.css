@@ -191,4 +191,8 @@ aside.right{
 aside.figure.figcaption{
   font-size: small;
 }
+aside.figure.img{
+    max-width: 100%;
+    height: auto;
+}
 
