@@ -185,6 +185,10 @@ aside{
 aside.left{
   float: left;
 }
+aside.left_wide{
+  float:left;
+  width:auto;
+}
 aside.right{
   float:right;
 }
