@@ -192,6 +192,10 @@ aside.left_wide{
 aside.right{
   float:right;
 }
+aside.right_wide{
+  float:right;
+  width:auto;
+}
 aside.figure.figcaption{
   font-size: small;
 }
