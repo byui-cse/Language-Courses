@@ -40,7 +40,7 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  font-size: 
+  /* font-size:  */
 }
 img {
  max-width: 100%;
@@ -99,6 +99,13 @@ code{
 }
 
 .inline_code{
+  border: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+code.inline {
+  display: inline;
   border: none;
   margin: 0px;
   padding: 0px;
