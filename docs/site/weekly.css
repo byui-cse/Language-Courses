@@ -111,6 +111,12 @@ code.inline {
   padding: 0px;
 }
 
+code.dark-code { /* for dark command line */
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+}
+
 table.blueTable {
   border: 1px solid #1C6EA4;
   background-color: #EEEEEE;
